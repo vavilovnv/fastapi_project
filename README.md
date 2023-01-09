@@ -3,7 +3,7 @@
 ### How to install
 
 ```
-git clone <имя репозитария>
+git clone https://github.com/vavilovnv/fastapi_project
 
 pip install -r requirements.txt
 
